@@ -1,0 +1,22 @@
+new check
+origin	https://github.com/ncallahan52/presidio.git (fetch)
+origin	https://github.com/ncallahan52/presidio.git (push)
+0
+text: My name is BIPlaBIPllahan52
+items:
+[
+    {'start': 16, 'end': 19, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'},
+    {'start': 11, 'end': 14, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'}
+]
+
+new check
+origin	https://github.com/ncallahan52/presidio.git (fetch)
+origin	https://github.com/ncallahan52/presidio.git (push)
+0
+text: My name is BIP,BIP
+items:
+[
+    {'start': 15, 'end': 18, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'},
+    {'start': 11, 'end': 14, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'}
+]
+
